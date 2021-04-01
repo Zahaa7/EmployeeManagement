@@ -16,8 +16,6 @@ import org.springframework.security.authentication.AuthenticationManager;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.multipart.MultipartFile;
-import ro.zah.employeemanagement.constant.FileConstant;
-import ro.zah.employeemanagement.constant.SecurityConstant;
 
 import javax.mail.MessagingException;
 
